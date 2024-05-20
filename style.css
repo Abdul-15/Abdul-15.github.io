@@ -1,4 +1,4 @@
-<style>
+    <style>
       body {
         background: #6DC5D1;
       }
@@ -35,7 +35,8 @@
       .nav ul {
         display: flex;
         flex: row;
-        margin: 0;
+        margin-right: 25%;
+        margin-left: 25%;
         padding: 0;
         list-style-type: none;
       }
